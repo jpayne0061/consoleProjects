@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Projects\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Administrator\Source\Projects\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Administrator\Source\Projects\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Administrator\Source\Projects\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Projects\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Administrator\Source\Projects\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\Administrator\Source\Projects\Practice\Practice\bin\Debug\mathHelper.dll
+C:\Users\Administrator\Source\Projects\Practice\Practice\bin\Debug\mathHelper.pdb
